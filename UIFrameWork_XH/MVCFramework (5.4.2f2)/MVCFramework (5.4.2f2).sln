@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCFramework (5.4.2f2)", "MVCFramework (5.4.2f2).csproj", "{296B01A2-0EE8-233D-8978-5B64FEEA6DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296B01A2-0EE8-233D-8978-5B64FEEA6DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296B01A2-0EE8-233D-8978-5B64FEEA6DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296B01A2-0EE8-233D-8978-5B64FEEA6DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296B01A2-0EE8-233D-8978-5B64FEEA6DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
